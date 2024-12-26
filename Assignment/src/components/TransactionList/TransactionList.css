@@ -1,0 +1,40 @@
+.treansaction-s {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .treansaction-s h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .treansaction-s ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .treansaction-s ul li {
+    background-color: #fff;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+  }
+  
+  .treansaction-s ul li:nth-child(odd) {
+    background-color: #f1f1f1;
+  }
+  
+  .treansaction-s ul li:hover {
+    background-color: #e0e0e0;
+  }
